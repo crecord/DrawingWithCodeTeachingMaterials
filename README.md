@@ -13,6 +13,6 @@ Here are the three sections and links to their presentations:
 
 - [Making Up the Rules](https://docs.google.com/presentation/d/11A_o4ZeLW4Lio-Or5V-u6i7VZb-MqvGnvf-Xqg2UFe8/edit#slide=id.p)
 - [Creating Drawing Tools](https://docs.google.com/presentation/d/1yZ2y6CMoQTG8NXsO3ycpOj3au3WZLn64MLY1CIl8x5A/edit#slide=id.p)
-- [New Place to Put Drawings](https://docs.google.com/presentation/d/1YGfHBW2ac4x4oEJGHDV2sS8l7cAtSGOep68Mu2kcD6E/edit?pli=1#slide=id.p) 
+- [New Places to Put Drawings](https://docs.google.com/presentation/d/1YGfHBW2ac4x4oEJGHDV2sS8l7cAtSGOep68Mu2kcD6E/edit?pli=1#slide=id.p) 
 
 
